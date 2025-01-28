@@ -13,7 +13,7 @@ const ProductSlider = () => {
   const products = [
     {
       id: 2,
-      image: "https://github.com/darcosine/prolook/blob/main/Images/schoolwear.jpg",
+      image: "https://drive.google.com/file/d/139z3wnCZUmlNX76SkIUE5VushZeQWqTu/view?usp=drive_link",
       title: "School Uniforms",
     },    
     {
